@@ -1,5 +1,4 @@
 
-
 .header-logo {
   float: left;
   font-size: 36px;
@@ -12,7 +11,26 @@
   background-color:#efab0c;
   font-family:'Train one',cursive;
 }
+.profile{
+
+}
 
 img{
   height:250px;
+  width:250px;
+  padding-top:16px;
+  padding-left:200px;
+  padding-bottom:24px;
+}
+.skill{
+  background-color:#f1cb71;
+  padding-top:16px;
+  padding-bottom:24px;
+}
+.portfolio{
+  padding-top:16px;
+  padding-bottom:24px;
+}
+.footer{
+  background-color:#c38c0b;
 }
