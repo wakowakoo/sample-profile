@@ -1,0 +1,18 @@
+
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 20px;
+  font-family: 'Train One', cursive;
+  background-color: #efab0c;
+}
+
+.header{
+  background-color:#efab0c;
+  font-family:'Train one',cursive;
+}
+
+img{
+  height:250px;
+}
